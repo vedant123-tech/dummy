@@ -1,0 +1,1 @@
+shutdown -s -t 05 -c "yur pc is hacked.yur personal details are leaked on social media "
